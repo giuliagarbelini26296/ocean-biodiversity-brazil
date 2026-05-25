@@ -39,16 +39,19 @@ using open data from the **Ocean Biodiversity Information System (OBIS)**.
 ## 📊 Visualizations
 
 ### Occurrence Map
-![Mapa](outputs/01_mapa_ocorrencias.png)
+<img width="1500" height="1800" alt="image" src="https://github.com/user-attachments/assets/7077852a-dc6d-4511-82e1-6556b4ee6135" />
+
 
 ### Records by Species
-![Espécies](outputs/02_registros_por_especie.png)
+<img width="1350" height="750" alt="image" src="https://github.com/user-attachments/assets/03bfa19c-2d34-4b22-94eb-02eecc78a2fa" />
 
 ### Temporal Trend
-![Tendência](outputs/03_tendencia_temporal.png)
+<img width="1650" height="900" alt="image" src="https://github.com/user-attachments/assets/f7d1362c-1d9b-43f5-8c33-72fcbaa582ba" />
+
 
 ### Seasonality
-![Sazonalidade](outputs/04_sazonalidade.png)
+<img width="1650" height="900" alt="image" src="https://github.com/user-attachments/assets/2df00070-9cb6-4611-bf9d-0bb11230c043" />
+
 
 ---
 
