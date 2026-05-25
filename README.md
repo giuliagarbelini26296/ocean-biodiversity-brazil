@@ -56,3 +56,23 @@ using open data from the **Ocean Biodiversity Information System (OBIS)**.
 ---
 
 ## 🗂️ Project Structure
+
+```markdown
+## 🗂️ Project Structure
+
+```
+ocean-biodiversity-brazil/
+├── Ocean_Biodiversity_Brazil.Rmd    # R Markdown principal
+├── 01_mapa_ocorrencias.png          # Mapa de ocorrências
+├── 02_registros_por_especie.png     # Registros por espécie
+├── 03_tendencia_temporal.png        # Tendência temporal
+├── 04_sazonalidade.png              # Sazonalidade
+├── mamiferos_marinhos_brasil.csv    # Dados brutos (6.100 registros)
+├── resumo_por_especie.csv           # Resumo estatístico
+├── pico_mensal.csv                  # Pico mensal por espécie
+├── tendencia_temporal.csv           # Tendência temporal por espécie
+└── README.md
+```
+```
+
+
